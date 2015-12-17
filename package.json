@@ -35,6 +35,6 @@
   "dependencies": {
     "lodash": "~2.4.1",
     "node.extend": "~1.0.8",
-    "serialport": "~1.2.5"
+    "serialport": "~2.0"
   }
 }
